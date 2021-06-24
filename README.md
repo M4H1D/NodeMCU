@@ -5,6 +5,7 @@
 #if you don’t have pc, you can flash your NodeMCU ESP8266 by two android app.
 here is the app link below:
 1)https://play.google.com/store/apps/details?id=com.bluino.esploader
+
 2)https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2
 
 #In Android or PC you must connect your serial monitor 9600..
