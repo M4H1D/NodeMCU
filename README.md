@@ -9,3 +9,5 @@ here is the app link below:
 2)https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2
 
 #In Android or PC you must connect your serial monitor 9600..
+
+#you can see this wifi name as "pwned"..password:"deauther"...then go to browser and search this IP: "192.168.4.1" . 
